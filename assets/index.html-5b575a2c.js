@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-66908030","path":"/docs/talk/","title":"沟通交流","lang":"en-US","frontmatter":{"title":"沟通交流","date":"2023-09-01T00:00:00.000Z"},"headers":[],"git":{"createdTime":1698632074000,"updatedTime":1698632074000,"contributors":[{"name":"Anonymous","email":"anonymous@anonymous.com","commits":1}]},"filePathRelative":"docs/talk/README.md"}');export{t as data};

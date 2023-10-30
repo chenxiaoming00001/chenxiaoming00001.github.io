@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-188df3a8","path":"/categories/chenxiaoming-protonmail.com/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{e as data};

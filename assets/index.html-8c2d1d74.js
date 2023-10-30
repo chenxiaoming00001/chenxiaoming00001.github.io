@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f0e5ed54","path":"/tags/shuzihuobi/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{e as data};

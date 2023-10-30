@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as _,a as e}from"./app-8f633995.js";const c="/assets/202391305837_1-87290db8.jpeg",o="/assets/202391305837_2-e3f147f8.jpeg",a={},n=e("p",null,[e("img",{src:c,alt:"IMG_9734.jpeg"}),e("img",{src:o,alt:"IMG_9733.jpeg"})],-1),r=[n];function l(i,p){return t(),_("div",null,r)}const f=s(a,[["render",l],["__file","202391305844.html.vue"]]);export{f as default};

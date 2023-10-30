@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-27771550","path":"/categories/huangskiff-skiff.com/1/","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{e as data};

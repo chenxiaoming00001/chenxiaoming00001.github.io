@@ -1,0 +1,1 @@
+import{_ as c,r as e,o as l,c as s,e as t,w as _,a}from"./app-8f633995.js";const r={},i=a("p",null,"注:该功能网络通信会比较慢(有梯子的话会快点)",-1);function d(m,u){const n=e("PublishEditor"),o=e("ClientOnly");return l(),s("div",null,[i,t(o,null,{default:_(()=>[t(n,{contenttype:"myhome"})]),_:1})])}const f=c(r,[["render",d],["__file","index.html.vue"]]);export{f as default};
